@@ -1,3 +1,3 @@
 ### Readme
 
-これはfirst-reposititoryの説明です。
+これはfirst-reposititoryの説明です。 
